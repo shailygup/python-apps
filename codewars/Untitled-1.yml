@@ -1,0 +1,94 @@
+Description: 'Resource provider for: aws.discovery'
+Parameters:
+  ConductorAwsAccountId:
+    Type: String
+    Description: >-
+      The ID of the AWS account Conductor will use to perform resource
+      operations.
+  ConductorOrganizationId:
+    Type: String
+    Description: The ID of your Organization in Conductor.
+Resources:
+  awsDiscoveryCreds:
+    Type: 'AWS::IAM::Role'
+    Properties:
+      Path: /cloudreach/conductor/
+      AssumeRolePolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Action: 'sts:AssumeRole'
+            Effect: Allow
+            Principal:
+              AWS: !Sub 'arn:aws:iam::${ConductorAwsAccountId}:root'
+            Condition:
+              StringEquals:
+                'sts:ExternalId': !Ref ConductorOrganizationId
+      ManagedPolicyArns:
+        - 'arn:aws:iam::aws:policy/job-function/ViewOnlyAccess'
+        - !Ref awsDiscoveryPermissions
+  awsDiscoveryPermissions:
+    Type: 'AWS::IAM::ManagedPolicy'
+    Properties:
+      Path: /cloudreach/conductor/
+      PolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Action:
+              - 'cloudwatch:DescribeAlarms'
+              - 'dynamodb:ListBackups'
+              - 'dynamodb:ListTagsOfResource'
+              - 'ec2:DescribeVpnConnections'
+              - 'elasticfilesystem:DescribeTags'
+              - 'elasticloadbalancing:DescribeTags'
+              - 'es:ListTags'
+              - 'events:DisableRule'
+              - 'events:EnableRule'
+              - 'kinesis:ListTagsForStream'
+              - 'kms:DescribeKey'
+              - 'kms:ListResourceTags'
+              - 'rds:ListTagsForResource'
+              - 'redshift:DescribeClusterSnapshots'
+              - 'redshift:DescribeClusterSubnetGroups'
+              - 'sns:GetTopicAttributes'
+              - 'sqs:GetQueueAttributes'
+              - 'sqs:ListQueueTags'
+              - 'states:DescribeStateMachine'
+              - 'states:ListTagsForResource'
+              - 'storagegateway:ListBackups'
+              - 'storagegateway:ListFileShares'
+              - 'storagegateway:ListTapes'
+              - 'backup:ListBackupPlanTemplates'
+              - 'backup:ListTags'
+              - 'backup:ListBackupPlanVersions'
+              - 'backup:ListBackupJobs'
+              - 'backup:DescribeCopyJob'
+              - 'backup:GetBackupVaultNotifications'
+              - 'backup:GetBackupPlanFromTemplate'
+              - 'backup:GetBackupVaultAccessPolicy'
+              - 'backup:DescribeProtectedResource'
+              - 'backup:GetSupportedResourceTypes'
+              - 'backup:GetBackupPlanFromJSON'
+              - 'backup:ListRecoveryPointsByBackupVault'
+              - 'backup:ListCopyJobs'
+              - 'backup:ListProtectedResources'
+              - 'backup:DescribeBackupJob'
+              - 'backup:DescribeRestoreJob'
+              - 'backup:ListRestoreJobs'
+              - 'backup:ExportBackupPlanTemplate'
+              - 'backup:GetBackupPlan'
+              - 'backup:ListBackupVaults'
+              - 'backup:GetBackupSelection'
+              - 'backup:GetRecoveryPointRestoreMetadata'
+              - 'backup:ListBackupPlans'
+              - 'backup:DescribeRecoveryPoint'
+              - 'backup:DescribeBackupVault'
+              - 'backup:ListRecoveryPointsByResource'
+              - 'backup:ListBackupSelections'
+            Effect: Allow
+            Resource: '*'
+Outputs:
+  awsDiscoveryCredentialsArn:
+    Description: The ARN of the restricted credentials IAM Role for "aws" solution.
+    Value: !GetAtt
+      - awsDiscoveryCreds
+      - Arn

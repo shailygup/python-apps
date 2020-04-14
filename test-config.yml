@@ -1,0 +1,32 @@
+services:
+  default:
+    specs:
+      - cloud_core_2.5_aws
+      - cloud_core_2.5_os
+      - cloud_core_2.5_gcp
+      - cloud_core_2.5_azure
+    scope: ~
+  monqa:
+    specs:
+      - cloud_core_2.5_extra
+      - cloud_core_2.5_aws
+      - cloud_core_2.5_os
+    scope:
+      - aws_tag_Project: MonQA
+
+  customer_dashboards:
+    specs:
+      - platform-engineering/customer_dashboards
+    scope:
+      - aws_tag_Project: Customer dashboards
+
+
+integrations:
+  # pagerduty: ~
+  aws:
+    - name: AWS ops qa
+      enabled: true
+      optimizer: true
+      cloudwatch: true
+      poll_rate: 300000 # 5m
+      role_arn: arn:aws:iam::373819956540:role/CloudreachSfxRole

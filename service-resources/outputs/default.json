@@ -1,0 +1,5315 @@
+{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-0f71b9661f47bd850": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "CR_DiscoveredServices",
+            "Value": "OS"
+        },
+        {
+            "Key": "Family",
+            "Value": "2012"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-windows2012r2"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Windows"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Windows2012r2"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGwindows2012r2-1X94F9765K8BL"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGwindows2012r2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-008442f8d2d53e7f4": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "CR_DiscoveredServices",
+            "Value": "OS"
+        },
+        {
+            "Key": "Family",
+            "Value": "Redhat"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-redhat7"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Linux"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Redhat7"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGredhat7-11F0Z6O6LD4A2"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGredhat7"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-013c217ca8228a564": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "Ubuntu"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-ubuntu1804"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Linux"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Ubuntu1804"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGubuntu1804-1NK9NEDQCBMT6"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGubuntu1804"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-08eced6254f61133c": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "CR_DiscoveredServices",
+            "Value": "OS"
+        },
+        {
+            "Key": "Family",
+            "Value": "Amazon"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-amazon"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Linux"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Amazon"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGamazon-1OFOHPJJX5C9Z"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGamazon"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-0761ad21ee2e6dc63": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet1"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-04420e28f7d800b75": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable1"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0e53f9c7a61c0e8a2": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0281a48dd4f859e19": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable1"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-081e2a9b6831b96d9": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet3"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0acf2e20f3d457506": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable3"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-0ebab0b514ec2178b": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "kubernetes.io/cluster/servicenow-tools-dev-cluster",
+            "Value": "shared"
+        },
+        {
+            "Key": "kubernetes.io/role/elb",
+            "Value": "1"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0fa8260d0d75ecf5e": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-0cc67eb9bdb9690d2": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet3"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "kubernetes.io/cluster/servicenow-tools-dev-cluster",
+            "Value": "shared"
+        },
+        {
+            "Key": "kubernetes.io/role/elb",
+            "Value": "1"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0c90eeebe7a4db569": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable3"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-0124eaf7850b27f1b": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:s3:::platform-eng-tf-state-373819956540": [
+        {
+            "Key": "app",
+            "Value": "terraform-bootstrap"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "StateBucket"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/platform-eng-tf-bootstrap/6a573e10-3ba0-11ea-af17-06527026dd82"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "platform-eng-tf-bootstrap"
+        },
+        {
+            "Key": "owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "stage",
+            "Value": "dev"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-6c534d86": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "fake-stage"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0fa9c9b9aec6de0fa": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "fake-stage"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-1b7163f1": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "development"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-076865c4cd928788d": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "development"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-dc829036": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "development"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0caa9156b31d76f08": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "development"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-8581936f": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "production"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-06101e8103940742c": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "production"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:cloudformation:eu-west-1:373819956540:stack/platform-eng-tf-bootstrap/6a573e10-3ba0-11ea-af17-06527026dd82": [
+        {
+            "Key": "app",
+            "Value": "terraform-bootstrap"
+        },
+        {
+            "Key": "owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "stage",
+            "Value": "dev"
+        }
+    ]
+}{
+    "arn:aws:dynamodb:eu-west-1:373819956540:table/platform-eng-tf-lock": [
+        {
+            "Key": "app",
+            "Value": "terraform-bootstrap"
+        },
+        {
+            "Key": "owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "stage",
+            "Value": "dev"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-049c8eee": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "production"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-037d7f605fe06bd11": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "production"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-37332add": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-92acb278": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-953c257f": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-e1abb50b": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-f6352c1c": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-fdb0ae17": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-018cebc68f8aff9b1": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-033a6838b3bd56ded": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0588714b455902815": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-05bf38bac36c28652": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0db0e63ff46d42ce3": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0f25670840ba479c1": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-8e819364": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "qa"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-03dd8f49ccfed5427": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "qa"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-1c8391f6": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "qa"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0c3dbdad60d011922": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "qa"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-07f1e4783e7212a4c": [
+        {
+            "Key": "Creation Date     ",
+            "Value": " Feb 19, 2020     "
+        },
+        {
+            "Key": "Estimated Life",
+            "Value": "Hopefully less than a week, please contact if longer"
+        },
+        {
+            "Key": "Name",
+            "Value": "Squid Proxy Test"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sean.bramhall@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Test SFx Cookbook on RHEL6 instance behind a proxy"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:volume/vol-0dfdd1d7078505c5d": [
+        {
+            "Key": "Creation Date     ",
+            "Value": " Feb 19, 2020     "
+        },
+        {
+            "Key": "Estimated Life",
+            "Value": "Hopefully less than a week, please contact if longer"
+        },
+        {
+            "Key": "Name",
+            "Value": "Squid Proxy Test"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sean.bramhall@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Test SFx Cookbook on RHEL6 instance behind a proxy"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-02f87438bf6765d49": [
+        {
+            "Key": "Creation Date",
+            "Value": "Feb 19, 2020"
+        },
+        {
+            "Key": "Estimated Life",
+            "Value": "Hopefully less than a week, please contact if longer"
+        },
+        {
+            "Key": "Name",
+            "Value": "Rhel6-Test"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sean.bramhall@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-02f87438bf6765d49": [
+        {
+            "Key": "Creation Date",
+            "Value": "Feb 19, 2020"
+        },
+        {
+            "Key": "Estimated Life",
+            "Value": "Hopefully less than a week, please contact if longer"
+        },
+        {
+            "Key": "Name",
+            "Value": "Rhel6-Test"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sean.bramhall@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:elasticloadbalancing:eu-west-1:373819956540:loadbalancer/app/cr-ops-vault-admin-alb-dev/228e6feb36f40cf5": [
+        {
+            "Key": "Approver",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "CloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "vault"
+        }
+    ]
+}{
+    "arn:aws:kinesis:eu-west-1:373819956540:stream/splunk_dev_cwlogs": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "test"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-02394694fe0ca220d": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "false"
+        },
+        {
+            "Key": "Name",
+            "Value": "vault-dev"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "CR-Vault-dev-vault-AutoScalingGroup-QURLY0IM96IV"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "AutoScalingGroup"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/CR-Vault-dev-vault/22009830-513d-11e9-8848-0a99a68566c4"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "CR-Vault-dev-vault"
+        },
+        {
+            "Key": "env",
+            "Value": "dev"
+        },
+        {
+            "Key": "production",
+            "Value": "false"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-0a4f8e1d7b390581b": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "false"
+        },
+        {
+            "Key": "Name",
+            "Value": "vault-dev"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "CR-Vault-dev-vault-AutoScalingGroup-QURLY0IM96IV"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "AutoScalingGroup"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/CR-Vault-dev-vault/22009830-513d-11e9-8848-0a99a68566c4"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "CR-Vault-dev-vault"
+        },
+        {
+            "Key": "env",
+            "Value": "dev"
+        },
+        {
+            "Key": "production",
+            "Value": "false"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-0f9b00f529626c438": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "false"
+        },
+        {
+            "Key": "Name",
+            "Value": "vault-dev"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "CR-Vault-dev-vault-AutoScalingGroup-QURLY0IM96IV"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "AutoScalingGroup"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/CR-Vault-dev-vault/22009830-513d-11e9-8848-0a99a68566c4"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "CR-Vault-dev-vault"
+        },
+        {
+            "Key": "env",
+            "Value": "dev"
+        },
+        {
+            "Key": "production",
+            "Value": "false"
+        }
+    ]
+}{
+    "arn:aws:elasticloadbalancing:eu-west-1:373819956540:loadbalancer/app/cr-ops-vault-alb-dev/ca2d62960e9b65ad": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:elasticloadbalancing:eu-west-1:373819956540:targetgroup/VaultDevAdminTG/3d6b69a9cf069cf3": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:elasticloadbalancing:eu-west-1:373819956540:targetgroup/VaultDevTG/711d4e962c9ab0db": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:backup:eu-west-1:373819956540:backup-plan:50dc4903-0e58-4d4a-bea6-be31731ea880": [
+        {
+            "Key": "Test",
+            "Value": "Test"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:security-group/sg-0f91fb6b937a30157": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:volume/vol-0dfd6fd1f972ce0d1": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:s3:::chef-server-backups-373819956540": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-076ad14cb391d9768": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Name",
+            "Value": "Chef Utility - Platform Engineering"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:volume/vol-097ce4387ac225234": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Name",
+            "Value": "Chef Utility - Platform Engineering"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-067b151bb275a8f3e": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "18"
+        },
+        {
+            "Key": "Build_Repo",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "fcaf13052cf4bbd7fc0dbc5b794ed79d35456540"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "testing"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOps Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04ad8d880e048ce74"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-22T13-12-00Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0d772388ae75a3080": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "18"
+        },
+        {
+            "Key": "Build_Repo",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "fcaf13052cf4bbd7fc0dbc5b794ed79d35456540"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "testing"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOps Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04ad8d880e048ce74"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-22T13-12-00Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0f483d241d488dbf4": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_AMI_ID",
+            "Value": "ami-067b151bb275a8f3e"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "18"
+        },
+        {
+            "Key": "Build_Repo",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "fcaf13052cf4bbd7fc0dbc5b794ed79d35456540"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOpsBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04ad8d880e048ce74"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-22T13-12-00Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0aad951bd71484f98": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "18"
+        },
+        {
+            "Key": "Build_Repo",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "fcaf13052cf4bbd7fc0dbc5b794ed79d35456540"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOpsBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04ad8d880e048ce74"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-22T13-12-00Z"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:subgrp:dkane-dev-db-sng": [
+        {
+            "Key": "Environment",
+            "Value": "dev"
+        },
+        {
+            "Key": "Name",
+            "Value": "dkane-dev-db-sng"
+        },
+        {
+            "Key": "Owner",
+            "Value": "dkane"
+        },
+        {
+            "Key": "Purpose",
+            "Value": "Agile Ops Training"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:og:magpro-20180703091643745100000001": [
+        {
+            "Key": "Environment",
+            "Value": "dev"
+        },
+        {
+            "Key": "Name",
+            "Value": "magpro"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "Terraform",
+            "Value": "1"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:pg:magpro-20180703091643745100000002": [
+        {
+            "Key": "Environment",
+            "Value": "dev"
+        },
+        {
+            "Key": "Name",
+            "Value": "magpro"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "Terraform",
+            "Value": "1"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:subgrp:magpro-20180703091644011200000003": [
+        {
+            "Key": "Environment",
+            "Value": "dev"
+        },
+        {
+            "Key": "Name",
+            "Value": "magpro"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "Terraform",
+            "Value": "1"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:snapshot:crpersistent-oraoib3qik7qk5-2019-12-08-02-00": [
+        {
+            "Key": "CR_ManagedSnapshot",
+            "Value": "true"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:snapshot:crpersistent-oraoib3qik7qk5-2019-12-09-02-00": [
+        {
+            "Key": "CR_ManagedSnapshot",
+            "Value": "true"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:snapshot:crpersistent-oraoib3qik7qk5-2019-12-10-02-00": [
+        {
+            "Key": "CR_ManagedSnapshot",
+            "Value": "true"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-011541d4569996dbc": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "45"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "36664d201bb5e97647433aefb2342b5d785328c3"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOpsBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-0cf41de51d4291e7b"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-25T11-01-02Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0440654d915c6fee4": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_AMI_ID",
+            "Value": "ami-01f1654fbf0e20c00"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "412"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-ami"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-ami.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "cc1dc2bb574dfdc5019266c9952c7256f1b7328d"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "SecurityBaselineBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04c58523038d79132"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20191113"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0859914e1fd9860f6": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "426"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-ami"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-ami.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "cc1dc2bb574dfdc5019266c9952c7256f1b7328d"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "building"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-ubuntu-18.04"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Security Baseline Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-07042e91d04b1c30d"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20200131"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-075304c36147741a5": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "426"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-ami"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-ami.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "cc1dc2bb574dfdc5019266c9952c7256f1b7328d"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "building"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-ubuntu-18.04"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Security Baseline Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-07042e91d04b1c30d"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20200131"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0aa7210ef71c8e2f9": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_AMI_ID",
+            "Value": "ami-0526fe8c4b170b0aa"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "206"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "494e56b663e88e6c68a8ea693ac1bed9f6755f61"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "SecurityBaselineBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-09beccdfda847bc3b"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-12-02T11-01-28Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-032312986e92f2bdf": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "250"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "494e56b663e88e6c68a8ea693ac1bed9f6755f61"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "SecurityBaselineBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-0f3c0dc34e81dbdd5"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2020-02-17T11-01-32Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0bfb71555373baa32": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "170"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "494e56b663e88e6c68a8ea693ac1bed9f6755f61"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "SecurityBaselineBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-078a44932a5cb68cb"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-09-30T11-01-42Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0bd2ee8661e22ac46": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "41"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "adebc384acdfb56bd6af4713aca11c60ae987177"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "testing"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOps Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-0cf41de51d4291e7b"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-25T11-01-02Z"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:db:test-portal": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "test-portal"
+        },
+        {
+            "Key": "NoSchedule",
+            "Value": "true"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "RdsInstance1"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/TestPortal-prod-rds/f9950d20-7601-11e8-829b-500c4227269a"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "TestPortal-prod-rds"
+        },
+        {
+            "Key": "workload-type",
+            "Value": "production"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:29": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "1.0.1"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:network-interface/eni-04171dce442e94e0e": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "eb3c3b1e6ba118b2060ce21236d27c655a8c616a"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        },
+        {
+            "Key": "aws:ecs:clusterName",
+            "Value": "default"
+        },
+        {
+            "Key": "aws:ecs:serviceName",
+            "Value": "customer_dashboards_backend"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:network-interface/eni-091561e1b59742863": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "eb3c3b1e6ba118b2060ce21236d27c655a8c616a"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        },
+        {
+            "Key": "aws:ecs:clusterName",
+            "Value": "default"
+        },
+        {
+            "Key": "aws:ecs:serviceName",
+            "Value": "customer_dashboards_backend"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task/default/90853e817e324ad0a50a1a9d8c1dbcab": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "eb3c3b1e6ba118b2060ce21236d27c655a8c616a"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        },
+        {
+            "Key": "aws:ecs:clusterName",
+            "Value": "default"
+        },
+        {
+            "Key": "aws:ecs:serviceName",
+            "Value": "customer_dashboards_backend"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task/default/bfc42818ab3d4f42a4c0176a84782e76": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "eb3c3b1e6ba118b2060ce21236d27c655a8c616a"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        },
+        {
+            "Key": "aws:ecs:clusterName",
+            "Value": "default"
+        },
+        {
+            "Key": "aws:ecs:serviceName",
+            "Value": "customer_dashboards_backend"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:26": [
+        {
+            "Key": "Commit",
+            "Value": "85ecf652661e33e47c2dee3d01a7051bf42de3ea"
+        },
+        {
+            "Key": "Date",
+            "Value": "2019-07-23T13:20:07.545Z"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-0f71b9661f47bd850": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "CR_DiscoveredServices",
+            "Value": "OS"
+        },
+        {
+            "Key": "Family",
+            "Value": "2012"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-windows2012r2"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Windows"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Windows2012r2"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGwindows2012r2-1X94F9765K8BL"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGwindows2012r2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:19": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "59bc0156933a3159cde6dce380b204cac02592df"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:21": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "e10870be1b7ab2c7f1a66da09e7ddfcdf508e436"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:31": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "5b40cea092b4a2fe149a966745df0a1560284db1"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:30": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "0.1.1"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:1": [
+        {
+            "Key": "Date",
+            "Value": "2019-06-25T10:32:41.339Z"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "Version",
+            "Value": "1.2.0"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:13": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "b7dc71fec5ac1951c39635cc560bb75250377e14"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:24": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "72b1a9aa4e56a848cde750b852b9ee5bd00f13af"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:9": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "d673ff734d928cf09c0582faf44427955a2cf5f0"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:42": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "7f32df7e35ee9bacd464cda514a781d399361a70"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:4": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "5b40cea092b4a2fe149a966745df0a1560284db1"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-0f71b9661f47bd850": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "CR_DiscoveredServices",
+            "Value": "OS"
+        },
+        {
+            "Key": "Family",
+            "Value": "2012"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-windows2012r2"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Windows"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Windows2012r2"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGwindows2012r2-1X94F9765K8BL"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGwindows2012r2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-008442f8d2d53e7f4": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "CR_DiscoveredServices",
+            "Value": "OS"
+        },
+        {
+            "Key": "Family",
+            "Value": "Redhat"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-redhat7"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Linux"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Redhat7"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGredhat7-11F0Z6O6LD4A2"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGredhat7"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-013c217ca8228a564": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "Ubuntu"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-ubuntu1804"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Linux"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Ubuntu1804"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGubuntu1804-1NK9NEDQCBMT6"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGubuntu1804"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-08eced6254f61133c": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "CR_DiscoveredServices",
+            "Value": "OS"
+        },
+        {
+            "Key": "Family",
+            "Value": "Amazon"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-amazon"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Linux"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Amazon"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGamazon-1OFOHPJJX5C9Z"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGamazon"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-0761ad21ee2e6dc63": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet1"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-04420e28f7d800b75": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable1"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0e53f9c7a61c0e8a2": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0281a48dd4f859e19": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable1"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-081e2a9b6831b96d9": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet3"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0acf2e20f3d457506": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable3"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-0ebab0b514ec2178b": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "kubernetes.io/cluster/servicenow-tools-dev-cluster",
+            "Value": "shared"
+        },
+        {
+            "Key": "kubernetes.io/role/elb",
+            "Value": "1"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0fa8260d0d75ecf5e": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-0cc67eb9bdb9690d2": [
+        {
+            "Key": "Approver",
+            "Value": "TBC"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet3"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/int-aws-mgmt-ops-qa-subnets/9b67f0d0-50af-11e9-a14b-0233b49b0800"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "int-aws-mgmt-ops-qa-subnets"
+        },
+        {
+            "Key": "kubernetes.io/cluster/servicenow-tools-dev-cluster",
+            "Value": "shared"
+        },
+        {
+            "Key": "kubernetes.io/role/elb",
+            "Value": "1"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:route-table/rtb-0c90eeebe7a4db569": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicRouteTable3"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:subnet/subnet-0124eaf7850b27f1b": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "public-subnet"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Account management"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "PublicSubnet2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/aws-base-qa-subnets/191dcb90-f326-11e8-bc7f-50faeb5cc8d2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "aws-base-qa-subnets"
+        },
+        {
+            "Key": "subnet_tier",
+            "Value": "public"
+        }
+    ]
+}{
+    "arn:aws:s3:::platform-eng-tf-state-373819956540": [
+        {
+            "Key": "app",
+            "Value": "terraform-bootstrap"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "StateBucket"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/platform-eng-tf-bootstrap/6a573e10-3ba0-11ea-af17-06527026dd82"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "platform-eng-tf-bootstrap"
+        },
+        {
+            "Key": "owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "stage",
+            "Value": "dev"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-6c534d86": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "fake-stage"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0fa9c9b9aec6de0fa": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "fake-stage"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-1b7163f1": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "development"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-076865c4cd928788d": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "development"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-dc829036": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "development"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0caa9156b31d76f08": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "development"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-8581936f": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "production"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-06101e8103940742c": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "production"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:cloudformation:eu-west-1:373819956540:stack/platform-eng-tf-bootstrap/6a573e10-3ba0-11ea-af17-06527026dd82": [
+        {
+            "Key": "app",
+            "Value": "terraform-bootstrap"
+        },
+        {
+            "Key": "owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "stage",
+            "Value": "dev"
+        }
+    ]
+}{
+    "arn:aws:dynamodb:eu-west-1:373819956540:table/platform-eng-tf-lock": [
+        {
+            "Key": "app",
+            "Value": "terraform-bootstrap"
+        },
+        {
+            "Key": "owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "stage",
+            "Value": "dev"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-049c8eee": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "production"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-037d7f605fe06bd11": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "production"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-37332add": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-92acb278": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-953c257f": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-e1abb50b": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-f6352c1c": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-fdb0ae17": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-018cebc68f8aff9b1": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-033a6838b3bd56ded": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0588714b455902815": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-05bf38bac36c28652": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0db0e63ff46d42ce3": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0f25670840ba479c1": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "master"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-8e819364": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "qa"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-03dd8f49ccfed5427": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "qa"
+        },
+        {
+            "Key": "type",
+            "Value": "front"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-1c8391f6": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "qa"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0c3dbdad60d011922": [
+        {
+            "Key": "Name",
+            "Value": "Bakery - Andrew Perry"
+        },
+        {
+            "Key": "stage",
+            "Value": "qa"
+        },
+        {
+            "Key": "type",
+            "Value": "back"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-07f1e4783e7212a4c": [
+        {
+            "Key": "Creation Date     ",
+            "Value": " Feb 19, 2020     "
+        },
+        {
+            "Key": "Estimated Life",
+            "Value": "Hopefully less than a week, please contact if longer"
+        },
+        {
+            "Key": "Name",
+            "Value": "Squid Proxy Test"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sean.bramhall@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Test SFx Cookbook on RHEL6 instance behind a proxy"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:volume/vol-0dfdd1d7078505c5d": [
+        {
+            "Key": "Creation Date     ",
+            "Value": " Feb 19, 2020     "
+        },
+        {
+            "Key": "Estimated Life",
+            "Value": "Hopefully less than a week, please contact if longer"
+        },
+        {
+            "Key": "Name",
+            "Value": "Squid Proxy Test"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sean.bramhall@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Test SFx Cookbook on RHEL6 instance behind a proxy"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-02f87438bf6765d49": [
+        {
+            "Key": "Creation Date",
+            "Value": "Feb 19, 2020"
+        },
+        {
+            "Key": "Estimated Life",
+            "Value": "Hopefully less than a week, please contact if longer"
+        },
+        {
+            "Key": "Name",
+            "Value": "Rhel6-Test"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sean.bramhall@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-02f87438bf6765d49": [
+        {
+            "Key": "Creation Date",
+            "Value": "Feb 19, 2020"
+        },
+        {
+            "Key": "Estimated Life",
+            "Value": "Hopefully less than a week, please contact if longer"
+        },
+        {
+            "Key": "Name",
+            "Value": "Rhel6-Test"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sean.bramhall@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:elasticloadbalancing:eu-west-1:373819956540:loadbalancer/app/cr-ops-vault-admin-alb-dev/228e6feb36f40cf5": [
+        {
+            "Key": "Approver",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "CloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "vault"
+        }
+    ]
+}{
+    "arn:aws:kinesis:eu-west-1:373819956540:stream/splunk_dev_cwlogs": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "test"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-02394694fe0ca220d": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "false"
+        },
+        {
+            "Key": "Name",
+            "Value": "vault-dev"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "CR-Vault-dev-vault-AutoScalingGroup-QURLY0IM96IV"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "AutoScalingGroup"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/CR-Vault-dev-vault/22009830-513d-11e9-8848-0a99a68566c4"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "CR-Vault-dev-vault"
+        },
+        {
+            "Key": "env",
+            "Value": "dev"
+        },
+        {
+            "Key": "production",
+            "Value": "false"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-0a4f8e1d7b390581b": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "false"
+        },
+        {
+            "Key": "Name",
+            "Value": "vault-dev"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "CR-Vault-dev-vault-AutoScalingGroup-QURLY0IM96IV"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "AutoScalingGroup"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/CR-Vault-dev-vault/22009830-513d-11e9-8848-0a99a68566c4"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "CR-Vault-dev-vault"
+        },
+        {
+            "Key": "env",
+            "Value": "dev"
+        },
+        {
+            "Key": "production",
+            "Value": "false"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-0f9b00f529626c438": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "false"
+        },
+        {
+            "Key": "Name",
+            "Value": "vault-dev"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "CR-Vault-dev-vault-AutoScalingGroup-QURLY0IM96IV"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "AutoScalingGroup"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/CR-Vault-dev-vault/22009830-513d-11e9-8848-0a99a68566c4"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "CR-Vault-dev-vault"
+        },
+        {
+            "Key": "env",
+            "Value": "dev"
+        },
+        {
+            "Key": "production",
+            "Value": "false"
+        }
+    ]
+}{
+    "arn:aws:elasticloadbalancing:eu-west-1:373819956540:loadbalancer/app/cr-ops-vault-alb-dev/ca2d62960e9b65ad": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:elasticloadbalancing:eu-west-1:373819956540:targetgroup/VaultDevAdminTG/3d6b69a9cf069cf3": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:elasticloadbalancing:eu-west-1:373819956540:targetgroup/VaultDevTG/711d4e962c9ab0db": [
+        {
+            "Key": "CloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        }
+    ]
+}{
+    "arn:aws:backup:eu-west-1:373819956540:backup-plan:50dc4903-0e58-4d4a-bea6-be31731ea880": [
+        {
+            "Key": "Test",
+            "Value": "Test"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:security-group/sg-0f91fb6b937a30157": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:volume/vol-0dfd6fd1f972ce0d1": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:s3:::chef-server-backups-373819956540": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-076ad14cb391d9768": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Name",
+            "Value": "Chef Utility - Platform Engineering"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:volume/vol-097ce4387ac225234": [
+        {
+            "Key": "Approver",
+            "Value": "jon.middleton@cloudreach.com"
+        },
+        {
+            "Key": "Branch",
+            "Value": "develop"
+        },
+        {
+            "Key": "Name",
+            "Value": "Chef Utility - Platform Engineering"
+        },
+        {
+            "Key": "Owner",
+            "Value": "platform-engineering@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Chef Server Backup Automation"
+        },
+        {
+            "Key": "Repository",
+            "Value": "gh:cloudreach-coreops/chef-server-backups"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-067b151bb275a8f3e": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "18"
+        },
+        {
+            "Key": "Build_Repo",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "fcaf13052cf4bbd7fc0dbc5b794ed79d35456540"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "testing"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOps Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04ad8d880e048ce74"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-22T13-12-00Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0d772388ae75a3080": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "18"
+        },
+        {
+            "Key": "Build_Repo",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "fcaf13052cf4bbd7fc0dbc5b794ed79d35456540"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "testing"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOps Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04ad8d880e048ce74"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-22T13-12-00Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0f483d241d488dbf4": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_AMI_ID",
+            "Value": "ami-067b151bb275a8f3e"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "18"
+        },
+        {
+            "Key": "Build_Repo",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "fcaf13052cf4bbd7fc0dbc5b794ed79d35456540"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOpsBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04ad8d880e048ce74"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-22T13-12-00Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0aad951bd71484f98": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "18"
+        },
+        {
+            "Key": "Build_Repo",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "fcaf13052cf4bbd7fc0dbc5b794ed79d35456540"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOpsBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04ad8d880e048ce74"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-22T13-12-00Z"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:subgrp:dkane-dev-db-sng": [
+        {
+            "Key": "Environment",
+            "Value": "dev"
+        },
+        {
+            "Key": "Name",
+            "Value": "dkane-dev-db-sng"
+        },
+        {
+            "Key": "Owner",
+            "Value": "dkane"
+        },
+        {
+            "Key": "Purpose",
+            "Value": "Agile Ops Training"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:og:magpro-20180703091643745100000001": [
+        {
+            "Key": "Environment",
+            "Value": "dev"
+        },
+        {
+            "Key": "Name",
+            "Value": "magpro"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "Terraform",
+            "Value": "1"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:pg:magpro-20180703091643745100000002": [
+        {
+            "Key": "Environment",
+            "Value": "dev"
+        },
+        {
+            "Key": "Name",
+            "Value": "magpro"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "Terraform",
+            "Value": "1"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:subgrp:magpro-20180703091644011200000003": [
+        {
+            "Key": "Environment",
+            "Value": "dev"
+        },
+        {
+            "Key": "Name",
+            "Value": "magpro"
+        },
+        {
+            "Key": "Owner",
+            "Value": "support@cloudreach.com"
+        },
+        {
+            "Key": "Terraform",
+            "Value": "1"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:snapshot:crpersistent-oraoib3qik7qk5-2019-12-08-02-00": [
+        {
+            "Key": "CR_ManagedSnapshot",
+            "Value": "true"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:snapshot:crpersistent-oraoib3qik7qk5-2019-12-09-02-00": [
+        {
+            "Key": "CR_ManagedSnapshot",
+            "Value": "true"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:snapshot:crpersistent-oraoib3qik7qk5-2019-12-10-02-00": [
+        {
+            "Key": "CR_ManagedSnapshot",
+            "Value": "true"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-011541d4569996dbc": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "45"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "36664d201bb5e97647433aefb2342b5d785328c3"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOpsBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-0cf41de51d4291e7b"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-25T11-01-02Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0440654d915c6fee4": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_AMI_ID",
+            "Value": "ami-01f1654fbf0e20c00"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "412"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-ami"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-ami.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "cc1dc2bb574dfdc5019266c9952c7256f1b7328d"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "SecurityBaselineBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-04c58523038d79132"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20191113"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0859914e1fd9860f6": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "426"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-ami"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-ami.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "cc1dc2bb574dfdc5019266c9952c7256f1b7328d"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "building"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-ubuntu-18.04"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Security Baseline Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-07042e91d04b1c30d"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20200131"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-075304c36147741a5": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "426"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-ami"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-ami.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "cc1dc2bb574dfdc5019266c9952c7256f1b7328d"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "building"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-ubuntu-18.04"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Security Baseline Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-07042e91d04b1c30d"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20200131"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0aa7210ef71c8e2f9": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_AMI_ID",
+            "Value": "ami-0526fe8c4b170b0aa"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "206"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "494e56b663e88e6c68a8ea693ac1bed9f6755f61"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "SecurityBaselineBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-09beccdfda847bc3b"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-12-02T11-01-28Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-032312986e92f2bdf": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "250"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "494e56b663e88e6c68a8ea693ac1bed9f6755f61"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "SecurityBaselineBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-0f3c0dc34e81dbdd5"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2020-02-17T11-01-32Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:snapshot/snap-0bfb71555373baa32": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "170"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "494e56b663e88e6c68a8ea693ac1bed9f6755f61"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "production"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "SecurityBaselineBakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-078a44932a5cb68cb"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-09-30T11-01-42Z"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:image/ami-0bd2ee8661e22ac46": [
+        {
+            "Key": "Approver",
+            "Value": "Antoine.Noel@cloudreach.com"
+        },
+        {
+            "Key": "Build_Branch",
+            "Value": "master"
+        },
+        {
+            "Key": "Build_Number",
+            "Value": "41"
+        },
+        {
+            "Key": "Build_Repo_Name",
+            "Value": "sec-baseline-proxy"
+        },
+        {
+            "Key": "Build_Repo_Url",
+            "Value": "git@github.com:cloudreach-coreops/sec-baseline-proxy.git"
+        },
+        {
+            "Key": "Git_Commit",
+            "Value": "adebc384acdfb56bd6af4713aca11c60ae987177"
+        },
+        {
+            "Key": "Lifecycle",
+            "Value": "testing"
+        },
+        {
+            "Key": "Name",
+            "Value": "cloudreach/images/build-baseline-proxy"
+        },
+        {
+            "Key": "Owner",
+            "Value": "DevSecOps@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "DevSecOps Bakery"
+        },
+        {
+            "Key": "Source_AMI_ID",
+            "Value": "ami-0cf41de51d4291e7b"
+        },
+        {
+            "Key": "Source_AMI_Name",
+            "Value": "cloudreach/images/baseline-ubuntu-18.04-2019-03-25T11-01-02Z"
+        }
+    ]
+}{
+    "arn:aws:rds:eu-west-1:373819956540:db:test-portal": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Name",
+            "Value": "test-portal"
+        },
+        {
+            "Key": "NoSchedule",
+            "Value": "true"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "RdsInstance1"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/TestPortal-prod-rds/f9950d20-7601-11e8-829b-500c4227269a"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "TestPortal-prod-rds"
+        },
+        {
+            "Key": "workload-type",
+            "Value": "production"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:29": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "1.0.1"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:network-interface/eni-04171dce442e94e0e": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "eb3c3b1e6ba118b2060ce21236d27c655a8c616a"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        },
+        {
+            "Key": "aws:ecs:clusterName",
+            "Value": "default"
+        },
+        {
+            "Key": "aws:ecs:serviceName",
+            "Value": "customer_dashboards_backend"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:network-interface/eni-091561e1b59742863": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "eb3c3b1e6ba118b2060ce21236d27c655a8c616a"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        },
+        {
+            "Key": "aws:ecs:clusterName",
+            "Value": "default"
+        },
+        {
+            "Key": "aws:ecs:serviceName",
+            "Value": "customer_dashboards_backend"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task/default/90853e817e324ad0a50a1a9d8c1dbcab": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "eb3c3b1e6ba118b2060ce21236d27c655a8c616a"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        },
+        {
+            "Key": "aws:ecs:clusterName",
+            "Value": "default"
+        },
+        {
+            "Key": "aws:ecs:serviceName",
+            "Value": "customer_dashboards_backend"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task/default/bfc42818ab3d4f42a4c0176a84782e76": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "eb3c3b1e6ba118b2060ce21236d27c655a8c616a"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        },
+        {
+            "Key": "aws:ecs:clusterName",
+            "Value": "default"
+        },
+        {
+            "Key": "aws:ecs:serviceName",
+            "Value": "customer_dashboards_backend"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:26": [
+        {
+            "Key": "Commit",
+            "Value": "85ecf652661e33e47c2dee3d01a7051bf42de3ea"
+        },
+        {
+            "Key": "Date",
+            "Value": "2019-07-23T13:20:07.545Z"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        }
+    ]
+}{
+    "arn:aws:ec2:eu-west-1:373819956540:instance/i-0f71b9661f47bd850": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "CR_DiscoveredServices",
+            "Value": "OS"
+        },
+        {
+            "Key": "Family",
+            "Value": "2012"
+        },
+        {
+            "Key": "MockCloudreachSupport",
+            "Value": "BaseSupport"
+        },
+        {
+            "Key": "Name",
+            "Value": "mock-ec2-windows2012r2"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Platform",
+            "Value": "Windows"
+        },
+        {
+            "Key": "Project",
+            "Value": "MonQA"
+        },
+        {
+            "Key": "Role",
+            "Value": "EC2/Windows2012r2"
+        },
+        {
+            "Key": "TestSuite",
+            "Value": "qa"
+        },
+        {
+            "Key": "aws:autoscaling:groupName",
+            "Value": "OPS-Mock-Environment-lab-qa-set-ASGwindows2012r2-1X94F9765K8BL"
+        },
+        {
+            "Key": "aws:cloudformation:logical-id",
+            "Value": "ASGwindows2012r2"
+        },
+        {
+            "Key": "aws:cloudformation:stack-id",
+            "Value": "arn:aws:cloudformation:eu-west-1:373819956540:stack/OPS-Mock-Environment-lab-qa-set/3c16f290-3447-11e9-8afb-0645c4e54a44"
+        },
+        {
+            "Key": "aws:cloudformation:stack-name",
+            "Value": "OPS-Mock-Environment-lab-qa-set"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:19": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "59bc0156933a3159cde6dce380b204cac02592df"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:21": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "e10870be1b7ab2c7f1a66da09e7ddfcdf508e436"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:31": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "5b40cea092b4a2fe149a966745df0a1560284db1"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:30": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "0.1.1"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:1": [
+        {
+            "Key": "Date",
+            "Value": "2019-06-25T10:32:41.339Z"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "Version",
+            "Value": "1.2.0"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:13": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "b7dc71fec5ac1951c39635cc560bb75250377e14"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:24": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "72b1a9aa4e56a848cde750b852b9ee5bd00f13af"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:9": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "d673ff734d928cf09c0582faf44427955a2cf5f0"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards:42": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "7f32df7e35ee9bacd464cda514a781d399361a70"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}{
+    "arn:aws:ecs:eu-west-1:373819956540:task-definition/customer_dashboards_migration:4": [
+        {
+            "Key": "Approver",
+            "Value": "lex.holt@cloudreach.com"
+        },
+        {
+            "Key": "Family",
+            "Value": "customer_dashboards_backend"
+        },
+        {
+            "Key": "ImageTag",
+            "Value": "5b40cea092b4a2fe149a966745df0a1560284db1"
+        },
+        {
+            "Key": "Owner",
+            "Value": "sre@cloudreach.com"
+        },
+        {
+            "Key": "Project",
+            "Value": "Customer dashboards"
+        }
+    ]
+}
